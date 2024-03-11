@@ -1,0 +1,12 @@
+accelerate==0.25.0
+huggingface-hub==0.20.1
+Pillow==10.1.0
+torch~=2.2.1+cu121
+torchvision~=0.17.1
+transformers~=4.38.2
+einops==0.7.0
+gradio==4.15.0
+timm==0.9.12
+openai~=1.13.3
+opencv-python~=4.9.0.80
+python-dotenv~=1.0.1
